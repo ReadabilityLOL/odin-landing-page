@@ -1,10 +1,27 @@
 body{
 	background-color:white;
 }
+
 .top{
 	background-color:#1F2937;
 }
 
 .header .link{
 	color:#E5E7EB;
+}
+
+.header .logo{
+	color:#F9FAF8;
+	font-size:24px;
+	font-weight:bold;
+	margin-right:250px;
+}
+.header{	
+	margin-bottom:100px;
+}
+
+.hero .main{
+	font-size:48px;
+	font-weight:bolder;
+	color:#F9FAF8;
 }
