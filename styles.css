@@ -37,10 +37,20 @@ body{
 
 button,call-to-action{
 	background-color:#3882F6;
+	border-radius:5px;
 }
 .button1{
 	border-color:#3882F6;
-	border-radius:5px;
 	padding-left:20px;
 	padding-right:20px;
+}
+
+.toppish{
+	margin-left:100px;
+}
+.filler-image{
+	border-color:red;
+	border-style:solid;
+	width:200px;
+	height:100px;
 }
