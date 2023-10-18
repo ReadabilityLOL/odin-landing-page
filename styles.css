@@ -29,3 +29,14 @@ body{
 	font-weight:bolder;
 	color:#F9FAF8;
 }
+
+.secondary {
+	font-size:18px;
+	color:#E5E7EB;
+}
+
+button,call-to-action{
+	background-color:#3882F6;
+}
+
+
