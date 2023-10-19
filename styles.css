@@ -28,11 +28,13 @@ body{
 	font-size:48px;
 	font-weight:bolder;
 	color:#F9FAF8;
+	flex:1;
 }
 
 .secondary {
 	font-size:18px;
 	color:#E5E7EB;
+	flex:1
 }
 
 button,call-to-action{
@@ -43,14 +45,23 @@ button,call-to-action{
 	border-color:#3882F6;
 	padding-left:20px;
 	padding-right:20px;
+	flex:1;
 }
 
 .toppish{
 	margin-left:100px;
+	display:flex;
+	flex-direction: column;
 }
+
+.col1,.col2{
+	display:flex;
+}
+
 .filler-image{
 	border-color:red;
 	border-style:solid;
 	width:200px;
 	height:100px;
+	flex:1;
 }
