@@ -2,6 +2,6 @@ body{
     font-family: Roboto, sans-serif;
 }
 
-.top{
+.top,.footer{
     background-color: #1F2937;
 }
