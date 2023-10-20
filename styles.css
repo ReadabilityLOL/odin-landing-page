@@ -5,3 +5,8 @@ body{
 .top,.footer{
     background-color: #1F2937;
 }
+
+.logo{
+    color:#F9FAF8;
+    font-size:24px;
+}
