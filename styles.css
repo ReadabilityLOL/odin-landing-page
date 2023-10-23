@@ -23,7 +23,6 @@ body{
     font-weight:bolder;
     color:#F9FAF8;
 }
-
 .other-fake-image{
     height: 200px;
     border-style:solid;
@@ -34,5 +33,9 @@ body{
 	display:flex;
 	flex-direction:column;
 }
-
+.quote-box{
+	background-color:#e5e7eb;
+	padding-top:100px;
+	padding-bottom:100px;
+}
 
