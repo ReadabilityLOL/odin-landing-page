@@ -5,7 +5,9 @@ body{
 .top,.footer{
     background-color: #1F2937;
 }
-
+.header{
+	margin-bottom:100px;
+}
 .logo{
     color:#F9FAF8;
     font-size:24px;
@@ -28,9 +30,13 @@ body{
 }
 .other-fake-image{
     height: 200px;
+    width:200px;
     border-style:solid;
     background-color:grey;
-    flex:1 1 auto;
+    float:right;
+}
+.col1{
+	float:right;
 }
 .hero{
 	display:flex;
