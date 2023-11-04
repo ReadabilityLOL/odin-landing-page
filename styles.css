@@ -59,4 +59,8 @@ button{
 	border-style:solid;
 	border-color:#3882F6;
 }
-
+.random-info{
+	text-align:center;
+	font-size:36px;
+	font-weight:bolder;
+}
