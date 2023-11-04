@@ -1,18 +1,27 @@
 body{
     font-family: Roboto, sans-serif;
 }
-
 .top,.footer{
     background-color: #1F2937;
 }
+.top{
+	padding-bottom: 100px;
+	padding-right:100px;
+	padding-left:100px;
+}
+button{
+	background-color:#3882F6;
+	border-color:#3882F6;
+	border-radius:5px;
+
+}
 .header{
-	margin-bottom:100px;
+	padding-bottom:100px;
 }
 .logo{
     color:#F9FAF8;
     font-size:24px;
     margin-right:300px;
-    margin-left:100px;
 }
 
 .link,.subtext{
@@ -34,9 +43,6 @@ body{
     border-style:solid;
     background-color:grey;
     float:right;
-}
-.col1{
-	float:right;
 }
 .hero{
 	display:flex;
